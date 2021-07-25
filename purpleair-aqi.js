@@ -1,9 +1,12 @@
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit. This is Latest. Really.
+// icon-color: blue; icon-glyph: magic;
 "use strict";
 
 /**
  * This widget is from <https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget>
  * By Jason Snell, Rob Silverii, Adam Lickel, Alexander Ogilvie, and Brian Donovan.
- * Based on code by Matt Silverlock.
+ * Based on code by Matt Silverlock. And me.
  */
 
 const API_URL = "https://www.purpleair.com";
